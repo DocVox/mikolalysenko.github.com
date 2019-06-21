@@ -1,0 +1,23 @@
+{
+  "name": "vox_isosurface",
+  "version": "1.0.0",
+  "description": "stripped down version of isosurface from mikolalysenko.github.com for inclusion in other projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DocVox/mikolalysenko.github.com.git"
+  },
+  "keywords": [
+    "isosurface",
+    "voxels"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DocVox/mikolalysenko.github.com/issues"
+  },
+  "homepage": "https://github.com/DocVox/mikolalysenko.github.com#readme"
+}
